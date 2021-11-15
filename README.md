@@ -1,6 +1,7 @@
 # flutter_list
 
 A new Flutter project.
+Button that shows a list of fruit.
 
 ## Getting Started
 
